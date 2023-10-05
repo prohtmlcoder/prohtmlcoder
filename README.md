@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on FederatedLearning
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on Web3 Technologies and its use cases
 <!--
 **prohtmlcoder/prohtmlcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
